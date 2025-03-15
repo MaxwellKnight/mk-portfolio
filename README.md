@@ -1,16 +1,10 @@
-# Maxwell Knight's Portfolio Website
+# My Personal Portfolio Website
 
 ## Overview
 Welcome to my personal portfolio website, showcasing my journey as a software developer and the projects I'm passionate about. This repository contains the source code for my professional portfolio, highlighting my skills, experiences, and creative coding projects.
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fcodeknight.dev&logo=circle&logoColor=white&label=website)](https://codeknight.dev)
 [![GitHub last commit](https://img.shields.io/github/last-commit/MaxwellKnight/mk-portfolio)](https://github.com/MaxwellKnight/mk-portfolio)
-
-## Key Features
-- **Responsive Design**: Fully responsive and mobile-friendly layout
-- **Modern UI/UX**: Clean, intuitive, and visually appealing interface
-- **Project Showcase**: Detailed project descriptions and live demos
-- **Technical Skills**: Comprehensive overview of technologies and skills
 
 ## Technologies Used
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
