@@ -17,7 +17,7 @@ Welcome to my personal portfolio website, showcasing my journey as a software de
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 6502 Debugger
 An interactive 6502 microprocessor emulator and debugger that provides deep insights into 6502 assembly language and computer architecture.
@@ -30,7 +30,7 @@ An interactive 6502 microprocessor emulator and debugger that provides deep insi
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Visit-brightgreen?style=flat&logo=googlechrome&logoColor=white)](https://codeknight.dev/projects/6502-debugger/)
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View%20Code-black?style=flat&logo=github)](https://github.com/MaxwellKnight/nes-emulator)
 
-## 📬 Contact
+## Contact
 - **Website**: [codeknight.dev](https://codeknight.dev)
 - **Email**: [contact@codeknight.dev](mailto:maxwell.knight@gmail.com)
 - **LinkedIn**: [Maxwell Knight](https://www.linkedin.com/in/maxwell-knight)
