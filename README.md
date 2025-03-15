@@ -32,6 +32,5 @@ An interactive 6502 microprocessor emulator and debugger that provides deep insi
 
 ## Contact
 - **Website**: [codeknight.dev](https://codeknight.dev)
-- **Email**: [contact@codeknight.dev](mailto:maxwell.knight@gmail.com)
 - **LinkedIn**: [Maxwell Knight](https://www.linkedin.com/in/maxwell-knight)
 - **GitHub**: [@MaxwellKnight](https://github.com/MaxwellKnight)
