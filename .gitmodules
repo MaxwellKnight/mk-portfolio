@@ -1,0 +1,3 @@
+[submodule "projects/6502-debugger"]
+	path = projects/6502-debugger
+	url = https://github.com/MaxwellKnight/nes-emulator.git
